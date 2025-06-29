@@ -1,0 +1,5 @@
+From: unknown@protonmail.com  
+To: suspect@example.com  
+Subject: Clean this up  
+
+Make sure the logs are gone before Friday. Don’t leave anything behind.
